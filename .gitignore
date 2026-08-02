@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+
+# NuGet
+packages/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# Environment
+.env
+.env.*
+
+# PostgreSQL
+*.backup
